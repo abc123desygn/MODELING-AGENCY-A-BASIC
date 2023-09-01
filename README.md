@@ -1,4 +1,4 @@
-# MODELING-AGENCY-A
+# MODELING-AGENCY-A (BASIC)
 A.I TOOL FOR MODELING AGENCY
 
 Open in Google Colab: [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/MODELING-AGENCY-A/blob/main/ABC_123_DESYGN_%E2%84%A2_MODELING_AGENCY_A.ipynb)
@@ -16,7 +16,7 @@ PROPERTY OF ABC 123 DESYGN
 
 ------------------------------------------------
 
-## ABC 123 DESYGN ™: MODELING AGENCY A
+## ABC 123 DESYGN ™: MODELING AGENCY A (BASIC)
 
 THIS REPOSITORY CONTAINS A JUPYTER NOTEBOOK FOR MODELING AGENCY A
 
